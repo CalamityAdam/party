@@ -7,4 +7,4 @@ javascript:(function(){const confetti=document.createElement("canvas");confetti.
 
 ```
 5. click "party time!" bookmark
-6. click anywhere on your screen and party!
+6. click anywhere on your screen and party! 🎉
