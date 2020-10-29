@@ -22,6 +22,15 @@ javascript:(function(){function a(){this.randomModifier=rand(-1,1),this.colorPai
 ![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png) | ![Firefox](https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![IE](https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png) | ![Opera](https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png) | ![Safari](https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png)
 --- | --- | --- | --- | --- |
 Latest ✔ | Latest ✔ | 10+ ✔ | Latest ✔ | ❌ |
+
+# Frequently Asked Questions
+
+-[How do I de-confetti the clicker?](#how-do-i-de-confetti-the-clicker)
+
+## How do I de-confetti the clicker?
+Why would you want to do that?
+
+- Refresh the page
 ---
 ### Like this tool? [Let me know!](mailto:sisk@hey.com?subject=Hey%20I%20really%20like%20party%20time!)
 ---
