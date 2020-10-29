@@ -1,5 +1,9 @@
 # Party Time!
-[![Generic badge](https://img.shields.io/badge/Version-2.0.1-blue.svg)](https://shields.io/) [![Generic badge](https://img.shields.io/badge/Made%20with-Love-red.svg)](https://adamsisk.info/)
+[![Generic badge](https://img.shields.io/badge/Version-2.0.1-blue.svg)](https://shields.io/)
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
+
 ### Instructions
 1. Bookmark this page
 2. Right click the newly created bookmark
