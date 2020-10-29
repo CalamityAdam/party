@@ -1,4 +1,5 @@
 # Party Time!
+[![Generic badge](https://img.shields.io/badge/Version-2.0.0-blue.svg)](https://shields.io/)
 ### Instructions
 1. Bookmark this page
 2. Right click the newly created bookmark
