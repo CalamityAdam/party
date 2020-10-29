@@ -1,3 +1,5 @@
+# Party Time!
+### Instructions
 1. Bookmark this page
 2. right click the newly created bookmark
 3. click "Edit" (if on Firefox, click "Properties")
@@ -13,3 +15,5 @@ javascript:(function(){const confetti=document.createElement("canvas");confetti.
 ![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png) | ![Firefox](https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![IE](https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png) | ![Opera](https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png) | ![Safari](https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png)
 --- | --- | --- | --- | --- |
 Latest ✔ | Latest ✔ | 10+ ✔ | Latest ✔ | X |
+---
+made with ♥️ by Adam Sisk
