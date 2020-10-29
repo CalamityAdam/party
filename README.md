@@ -17,6 +17,8 @@ javascript:(function(){function a(){this.randomModifier=rand(-1,1),this.colorPai
 6. Click "party time!" bookmark
 7. Click anywhere on your screen and party! 🎉
 
+![party time!](https://media.giphy.com/media/9G5bX9nXYfmmatgn0B/giphy.gif)
+
 ![Chrome](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png) | ![Firefox](https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![IE](https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png) | ![Opera](https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png) | ![Safari](https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png)
 --- | --- | --- | --- | --- |
 Latest ✔ | Latest ✔ | 10+ ✔ | Latest ✔ | ❌ |
