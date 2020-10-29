@@ -22,6 +22,6 @@ javascript:(function(){function a(){this.randomModifier=rand(-1,1),this.colorPai
 Latest ✔ | Latest ✔ | 10+ ✔ | Latest ✔ | ❌ |
 ---
 ### Like this tool?
-[let me know!](mailto:someone@yoursite.com?subject=Hey I really like party time!)
+[let me know!](mailto:someone@yoursite.com?subject=Hey%20I%20really%20like%20party%20time!)
 ---
 made with ♥️ by Adam Sisk
