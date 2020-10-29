@@ -4,7 +4,7 @@
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](http://ForTheBadge.com)
 
-### Instructions
+## Instructions
 1. Bookmark this page
 2. Right click the newly created bookmark
 3. Click "Edit" (if on Firefox, click "Properties")
