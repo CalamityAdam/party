@@ -30,7 +30,7 @@ Latest ✔ | Latest ✔ | 10+ ✔ | Latest ✔ | ❌ |
 ## How do I de-confetti the clicker?
 Why would you want to do that?
 
-- Refresh the page
+1. Refresh the page
 ---
 ### Like this tool? [Let me know!](mailto:sisk@hey.com?subject=Hey%20I%20really%20like%20party%20time!)
 ---
