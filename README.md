@@ -41,7 +41,18 @@ Latest ✔ | Latest ✔ | 10+ ✔ | Latest ✔ | ❌ |
 4. Use it for fun any time of day!
 
 
+# Want more amusing fun?
+Open any of these files, copy the script in that file, follow the same instructions as listed above ☝️ but use the copied script instead of the script listed here.
+[Button Chaos](button-chaos.md) thanks [Josh Friend](https://github.com/joshwhatk)
+[Blur Screen](blur-screen.md)
+
+
+
+
 ---
 ### Like this tool? [Let me know!](mailto:sisk@hey.com?subject=Hey%20I%20really%20like%20party%20time!)
+### Have a great idea for another fun prank? [Let me know!](mailto:sisk@hey.com?subject=Hey%20I%20have%20an%20idea%20for%20a%20fun%20prank!)
 ---
-made with ♥️ by Adam Sisk
+
+
+> made with ♥️ by Adam Sisk
