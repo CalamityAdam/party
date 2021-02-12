@@ -26,11 +26,21 @@ Latest ✔ | Latest ✔ | 10+ ✔ | Latest ✔ | ❌ |
 # Frequently Asked Questions
 
 - [How do I de-confetti the clicker?](#how-do-i-de-confetti-the-clicker)
+- [When should I use this?](#when-should-i-use-this)
 
 ## How do I de-confetti the clicker?
 *Why would you want to do that?*
 
 1. Refresh the page
+
+## When should I use this?
+
+1. Use this tool when you are sad and want to cheer up.
+2. Use it when you want to celebrate an accomplishment.
+3. ~~Use it when you want to prank a teammate and put it on their computer while they're away from their desk and didn't lock the computer.~~
+4. Use it for fun any time of day!
+
+
 ---
 ### Like this tool? [Let me know!](mailto:sisk@hey.com?subject=Hey%20I%20really%20like%20party%20time!)
 ---
