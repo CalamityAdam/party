@@ -28,7 +28,7 @@ Latest ✔ | Latest ✔ | 10+ ✔ | Latest ✔ | ❌ |
 - [How do I de-confetti the clicker?](#how-do-i-de-confetti-the-clicker)
 
 ## How do I de-confetti the clicker?
-Why would you want to do that?
+*Why would you want to do that?*
 
 1. Refresh the page
 ---
