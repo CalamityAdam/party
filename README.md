@@ -43,8 +43,9 @@ Latest ✔ | Latest ✔ | 10+ ✔ | Latest ✔ | ❌ |
 
 # Want more amusing fun?
 Open any of these files, copy the script in that file, follow the same instructions as listed above ☝️ but use the copied script instead of the script listed here.
-[Button Chaos](button-chaos.md) thanks [Josh Friend](https://github.com/joshwhatk)
-[Blur Screen](blur-screen.md)
+
+- [Button Chaos](button-chaos.md) thanks [Josh Friend](https://github.com/joshwhatk)
+- [Blur Screen](blur-screen.md)
 
 
 
