@@ -46,6 +46,7 @@ Open any of these files, copy the script in that file, follow the same instructi
 
 - [Button Chaos](button-chaos.md) thanks [Josh Friend](https://github.com/joshwhatk)
 - [Blur Screen](blur-screen.md)
+- [Broken Screen](broken-screen.md) Trick your friends into thinking they broke your screen!
 - [Replace Text (kindergarten edition)](replace-text.md) thanks [Isaiah Colson](https://github.com/isaiahcolson)
 
 ---
